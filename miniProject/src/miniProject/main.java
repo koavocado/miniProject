@@ -3,9 +3,9 @@ package miniProject;
 public class main {
 
 	public static void main(String[] args) {
-		System.out.println("¹Ì´ÏÇÁ·ÎÁ§Æ® ½ÃÀÛÇÕ´Ï´Ù.");
-		System.out.println("Èå¸§µµ Â¥±â");
-		
+		System.out.println("ë¯¸ë‹ˆí”„ë¡œì íŠ¸ ì‹œì‘í•©ë‹ˆë‹¤.");
+		System.out.println("íë¦„ë„ ì§œê¸°");
+		System.out.println("hello world");
 
 	}
 
